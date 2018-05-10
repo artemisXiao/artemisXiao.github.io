@@ -39,6 +39,16 @@ header {
     max-width: 15%;
     height: auto;
     margin: 0 auto;
+	padding-top: 5%;
+	text-align: center;
+}
+.site-logo .logo {
+    width: 80%;
+	background #fff;
+}
+.head_img {
+	background: #fff;
+	border-radius: 50%;
 }
 
 .logo {
