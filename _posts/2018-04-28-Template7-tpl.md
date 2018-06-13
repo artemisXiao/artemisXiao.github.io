@@ -1,10 +1,6 @@
 ### Template7 封装渲染方法
 ```
 /**
- * Created by Administrator on 2018/1/30.
- */
-
-/**
  * 动态模板加载
  * 依赖
  * jquery  template7
