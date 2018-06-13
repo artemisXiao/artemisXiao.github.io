@@ -1,6 +1,5 @@
 ### Template7 封装渲染方法
-···
-
+```
 /**
  * Created by Administrator on 2018/1/30.
  */
@@ -63,4 +62,4 @@ $.extend({
 
 //使用  
 $.tpl(options);
-···
+```

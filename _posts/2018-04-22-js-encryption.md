@@ -1,6 +1,5 @@
 ### 简单的js加密算法
-···
-
+```
 //================加密解密================
 /**
  * 加密
@@ -82,4 +81,4 @@ function decrypt(str, pwd) {
     enc_str = unescape(enc_str);
     return enc_str;
 }
-···
+```

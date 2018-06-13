@@ -1,6 +1,5 @@
 ### js
-···
-
+```
 /***
  * ================================================公告滚动
  */
@@ -77,4 +76,4 @@ Scroll.prototype = {
 
 //启动轮播 new Scroll(ElementId, height(px) ,delay(s))
 new Scroll('gonggao_board', 22, 5);
-···
+```
